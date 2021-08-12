@@ -1,4 +1,4 @@
-/*Criando via código o banco lucas*/
+/*Criando via codigo o banco lucas*/
 create database lucas;
-/*Apagando via código o banco Teste*/
+/*Apagando via codigo o banco Teste*/
 drop database Teste;
