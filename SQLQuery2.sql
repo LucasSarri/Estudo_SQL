@@ -1,3 +1,5 @@
+/*O Select basicamente seleciona informações de tabelas*/
+
 /*Modelo de select*/
 SELECT coluna1, coluna2 FROM tabela;
 /*retorna todas as colunas da tabela*/
