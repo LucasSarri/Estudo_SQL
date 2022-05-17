@@ -2,8 +2,8 @@
 SELECT coluna1,coluna2, colunaN
 FROM tabela
 WHERE condicao
-/*
 
+/*
 Operadores - Descricao
 =		-		Igual
 >		-		Maior
@@ -13,9 +13,9 @@ Operadores - Descricao
 <>		-		Diferente
 AND		-		Operador logico E
 OR		-		Operador logico OU
-
 */
 
+/*Exemplos*/
 /*Consulta de todas as pessoas que tem o sobrenome Miller*/
 SELECT * FROM person.person WHERE lastname = 'Miller';
 
