@@ -1,4 +1,4 @@
-/*Cont faz a contagem de quantas instancias temos de determinado campo da tabela*/
+/*Cont (Função de Agregação) retorna a quantidade de linhas constam dentro de determinado critério*/
 select count(campo) 
 from tabela
 
